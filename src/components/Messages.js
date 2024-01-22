@@ -23,7 +23,7 @@ const ErrorMessage = () => {
     <p className="error">
       Oops! Something went wrong.
       <br />
-      Please try again!
+      Please try again! never
     </p>
   </div>;
 };
